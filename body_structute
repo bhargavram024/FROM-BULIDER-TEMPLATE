@@ -1,0 +1,11 @@
+form-template-builder/
+├── public/              → Static index.html
+├── src/
+│   ├── components/      → All React components
+│   ├── utils/           → Drag-and-drop helpers
+│   ├── App.jsx          → Root component
+│   └── main.jsx         → React DOM entry point
+├── tailwind.config.js   → TailwindCSS configuration
+├── postcss.config.js    → PostCSS processor
+├── package.json         → Dependencies and scripts
+└── README.md            → Documentation
